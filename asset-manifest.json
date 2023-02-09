@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/HawkWeatherApp/static/css/main.0525fa71.css",
+    "main.js": "/HawkWeatherApp/static/js/main.a0d9937b.js",
+    "static/media/tom-barrett-hgGplX3PFBg-unsplash.jpg": "/HawkWeatherApp/static/media/tom-barrett-hgGplX3PFBg-unsplash.527ab2e3fa67719c6918.jpg",
+    "index.html": "/HawkWeatherApp/index.html",
+    "main.0525fa71.css.map": "/HawkWeatherApp/static/css/main.0525fa71.css.map",
+    "main.a0d9937b.js.map": "/HawkWeatherApp/static/js/main.a0d9937b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0525fa71.css",
+    "static/js/main.a0d9937b.js"
+  ]
+}
