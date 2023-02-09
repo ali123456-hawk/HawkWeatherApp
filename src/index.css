@@ -59,7 +59,7 @@ color: white;
 .bottom{
   background-color:rgba(0,0,0,0.5);
   width: 90%;
-  margin: 15rem auto;
+  margin: 12rem auto;
   display: grid;
   grid-template-columns: repeat(3,1fr);
   padding: 2rem;
@@ -82,7 +82,7 @@ color: white;
         text-align:center;
       }
       .bottom{
-        margin: 12% auto ;
+        margin: 7% auto ;
       }
 
 }
